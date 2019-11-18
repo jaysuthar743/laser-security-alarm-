@@ -1,14 +1,3 @@
-
-Skip to content
-Using Gmail with screen readers
-Conversations
- 
-11.39 GB (75%) of 15 GB used
-Manage
-Terms · Privacy · Program Policies
-Last account activity: 40 minutes ago
-Details
-
 int buzzer = 8;
 int ldrvalue;
 int state = 200;
@@ -33,5 +22,3 @@ void loop()
 	}
 }
 
-laser security alarm.txt
-Displaying laser security alarm.txt.
